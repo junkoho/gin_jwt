@@ -1,1 +1,7 @@
-func main()
+package main
+
+import "log"
+
+func main() {
+	log.Println(123)
+}
