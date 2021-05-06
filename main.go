@@ -23,4 +23,6 @@ func main() {
 	log.Println("123")
 	log.Println("123")
 	log.Println("123")
+	log.Println("123")
+	log.Println("123")
 }
